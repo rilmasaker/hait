@@ -1,0 +1,36 @@
+{
+  "name": "hait",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@hookform/resolvers": "^2.8.8",
+    "@mui/material": "latest",
+    "compress.js": "^1.2.2",
+    "disposable-email-domains": "^1.0.59",
+    "firebase": "^9.6.9",
+    "firebase-admin": "^10.0.2",
+    "next": "latest",
+    "next-absolute-url": "^1.2.2",
+    "next-firebase-auth": "^1.0.0-canary.8",
+    "next-pwa": "^5.5.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "^7.28.1",
+    "react-share": "^4.4.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-next": "latest"
+  }
+}
